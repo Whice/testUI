@@ -1,10 +1,10 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 
-namespace UnityEditorInternal
+namespace UI
 {
     public class AnimalPopupWindow : MonoBehaviour
     {
-
         /// <summary>
         /// Т.к. я не знаю, как часто используется это окно, при закрытии оно будет именно уничтожаться.
         /// </summary>
